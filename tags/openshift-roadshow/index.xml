@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>openshift-roadshow on Learn the Origin</title>
+    <link>http://jorgemoral.es/tags/openshift-roadshow/</link>
+    <description>Recent content in openshift-roadshow on Learn the Origin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>©{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 26 Feb 2017 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="http://jorgemoral.es/tags/openshift-roadshow/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>OpenShift Roadshow &#39;17 - Amsterdam</title>
+        <link>http://jorgemoral.es/talks/2017-02-26-openshift-roadshow-amsterdam/</link>
+        <pubDate>Sun, 26 Feb 2017 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Sun, 26 Feb 2017 00:00:00 +0000</atom:modified>
+        <guid>http://jorgemoral.es/talks/2017-02-26-openshift-roadshow-amsterdam/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge Morales</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>openshift-roadshow</category>
+            
+          
+        
+        
+          
+            
+              <category>conference</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>OpenShift Roadshow &#39;17 - Brussels</title>
+        <link>http://jorgemoral.es/talks/2017-02-13-openshift-roadshow-brussels/</link>
+        <pubDate>Mon, 13 Feb 2017 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Mon, 13 Feb 2017 00:00:00 +0000</atom:modified>
+        <guid>http://jorgemoral.es/talks/2017-02-13-openshift-roadshow-brussels/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge Morales</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>openshift-roadshow</category>
+            
+          
+        
+        
+          
+            
+              <category>conference</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>OpenShift Roadshow &#39;16 - NYC</title>
+        <link>http://jorgemoral.es/talks/2016-12-05-openshift-roadshow-nyc/</link>
+        <pubDate>Mon, 05 Dec 2016 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Mon, 05 Dec 2016 00:00:00 +0000</atom:modified>
+        <guid>http://jorgemoral.es/talks/2016-12-05-openshift-roadshow-nyc/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge Morales</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>openshift-roadshow</category>
+            
+          
+        
+        
+          
+            
+              <category>conference</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>OpenShift Roadshow &#39;15 - Moscow</title>
+        <link>http://jorgemoral.es/talks/2015-11-18-openshift-roadshow-moscow/</link>
+        <pubDate>Wed, 18 Nov 2015 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Wed, 18 Nov 2015 00:00:00 +0000</atom:modified>
+        <guid>http://jorgemoral.es/talks/2015-11-18-openshift-roadshow-moscow/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge Morales</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>openshift-roadshow</category>
+            
+          
+        
+        
+          
+            
+              <category>conference</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>OpenShift Roadshow &#39;15 - London</title>
+        <link>http://jorgemoral.es/talks/2015-11-02-openshift-roadshow-london/</link>
+        <pubDate>Mon, 02 Nov 2015 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Mon, 02 Nov 2015 00:00:00 +0000</atom:modified>
+        <guid>http://jorgemoral.es/talks/2015-11-02-openshift-roadshow-london/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge Morales</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>openshift-roadshow</category>
+            
+          
+        
+        
+          
+            
+              <category>conference</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

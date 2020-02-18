@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>builds on Learn the Origin</title>
+    <link>http://jorgemoral.es/tags/builds/</link>
+    <description>Recent content in builds on Learn the Origin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>©{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Mon, 18 Jan 2016 09:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="http://jorgemoral.es/tags/builds/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Improving Build Time of Java Builds on OpenShift</title>
+        <link>http://jorgemoral.es/posts/2016-01-18-speed-java-builds/</link>
+        <pubDate>Mon, 18 Jan 2016 09:00:00 +0000</pubDate>
+        
+        <atom:modified>Mon, 18 Jan 2016 09:00:00 +0000</atom:modified>
+        <guid>http://jorgemoral.es/posts/2016-01-18-speed-java-builds/</guid>
+        <description>As you might know, OpenShift 3 Enterprise provides Middleware Services (xPaas), which is a set of Java based images for JBoss EAP, JBoss EWS (Tomcat), JBoss Fuse Integration Services, JBoss A-MQ, JBoss Decision Server and JBoss Data Grid. Also, OpenShift Origin provides an additional JBoss based images for Wildfly, our application server community project. All these images are source-to-image (S2I) enable, that means that will get your application source code built (using Maven) and layered into the application container.</description>
+        
+        <dc:creator>jorgemoralespou</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>openshift</category>
+            
+          
+            
+              <category>origin</category>
+            
+          
+            
+              <category>builds</category>
+            
+          
+            
+              <category>maven</category>
+            
+          
+            
+              <category>java</category>
+            
+          
+            
+              <category>nexus</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Using OpenShift for Enterprise Grade Spring Boot Deployments</title>
+        <link>http://jorgemoral.es/posts/2015-09-03-deploying-springboot/</link>
+        <pubDate>Thu, 03 Sep 2015 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Thu, 03 Sep 2015 00:00:00 +0000</atom:modified>
+        <guid>http://jorgemoral.es/posts/2015-09-03-deploying-springboot/</guid>
+        <description>We live in a polyglot world where developers are using a vast array of different technologies to create applications that perform well, while also having the ability to scale to meet the demands of their application users. Of course, it is very easy to show the supported languages and runtimes that OpenShift provides out of the box, but to be realistic, many developers would like to see how we can bring other leading technologies into OpenShift and use them seamlessly.</description>
+        
+        <dc:creator>jorgemoralespou</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>openshift</category>
+            
+          
+            
+              <category>origin</category>
+            
+          
+            
+              <category>builds</category>
+            
+          
+            
+              <category>springboot</category>
+            
+          
+            
+              <category>java</category>
+            
+          
+            
+              <category>maven</category>
+            
+          
+            
+              <category>s2i</category>
+            
+          
+            
+              <category>gradle</category>
+            
+          
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>minishift on Learn the Origin</title>
+    <link>http://jorgemoral.es/tags/minishift/</link>
+    <description>Recent content in minishift on Learn the Origin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>©{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 12 Jul 2018 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="http://jorgemoral.es/tags/minishift/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Care and Feeding of Minishift Development Environments</title>
+        <link>http://jorgemoral.es/posts/2018-07-12-care-and-feed-minishift-dev-envs/</link>
+        <pubDate>Thu, 12 Jul 2018 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Thu, 12 Jul 2018 00:00:00 +0000</atom:modified>
+        <guid>http://jorgemoral.es/posts/2018-07-12-care-and-feed-minishift-dev-envs/</guid>
+        <description>If you’ve heard of minishift, the OpenShift environment for your laptop, or if you’re using the Container Development Kit (CDK) at work, you’re probably building applications on the OpenShift Container Platform. This post is for you. If you’re new to OpenShift and these names aren’t familiar yet, check out the this other minishift blog first to get the most value from the content below.
+Upgrades: The Wisdom of Impermanence Developers often ask how minishift installations should be upgraded.</description>
+        
+        <dc:creator>jorgemoralespou</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>openshift</category>
+            
+          
+            
+              <category>development</category>
+            
+          
+            
+              <category>local</category>
+            
+          
+            
+              <category>devexp</category>
+            
+          
+            
+              <category>minishift</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Deploy helm charts on minishift&#39;s OpenShift for local development</title>
+        <link>http://jorgemoral.es/posts/2017-07-19-deploy-helm-charts-on-minishift/</link>
+        <pubDate>Wed, 19 Jul 2017 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Wed, 19 Jul 2017 00:00:00 +0000</atom:modified>
+        <guid>http://jorgemoral.es/posts/2017-07-19-deploy-helm-charts-on-minishift/</guid>
+        <description>For some time I&amp;rsquo;ve been hearing about Helm and have been asked by people how they could deploy into OpenShift applications defined as Charts, the format Helm uses to package an application.
+One of the really nice features that minishift &amp;gt;= 1.2.0 introduced was the concept of an addon which is a way to provide additional capabilities to your minishift local environment. As this feature is really interesting, and evolving really nicely, I have developed some addons that allow me to extend my minishift capabilities by issuing a single command.</description>
+        
+        <dc:creator>jorgemoralespou</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>openshift</category>
+            
+          
+            
+              <category>origin</category>
+            
+          
+            
+              <category>development</category>
+            
+          
+            
+              <category>local</category>
+            
+          
+            
+              <category>devexp</category>
+            
+          
+            
+              <category>minishift</category>
+            
+          
+            
+              <category>build</category>
+            
+          
+            
+              <category>helm</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Enhancing the local development experience. Trusting your self-signed certificates</title>
+        <link>http://jorgemoral.es/posts/2017-07-17-trust-your-certs/</link>
+        <pubDate>Mon, 17 Jul 2017 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Mon, 17 Jul 2017 00:00:00 +0000</atom:modified>
+        <guid>http://jorgemoral.es/posts/2017-07-17-trust-your-certs/</guid>
+        <description>One of my biggest interests is how to make local development experience with OpenShift as easy as possible. I’m constantly exploring what needs to be enhanced to our current experience as I develop applications for OpenShift very frequently. I work hard to understand developers requirements and eventually provide solutions in the tooling we provide. I use to incubate ideas in a project my team owns, oc-cluster-wrapper. I work very close with our engineering teams to solve these use cases in &amp;ldquo;oc cluster&amp;rdquo; or &amp;ldquo;minishift&amp;rdquo; depending on the nature of the problem, as even if they both can stand up an OpenShift all-in-one instance for local development, they both have different goals.</description>
+        
+        <dc:creator>jorgemoralespou</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>openshift</category>
+            
+          
+            
+              <category>origin</category>
+            
+          
+            
+              <category>development</category>
+            
+          
+            
+              <category>local</category>
+            
+          
+            
+              <category>devexp</category>
+            
+          
+            
+              <category>minishift</category>
+            
+          
+            
+              <category>build</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Enhancing your Builds on OpenShift. Chaining Builds.</title>
+        <link>http://jorgemoral.es/posts/2017-04-19-chained-builds/</link>
+        <pubDate>Wed, 19 Apr 2017 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Wed, 19 Apr 2017 00:00:00 +0000</atom:modified>
+        <guid>http://jorgemoral.es/posts/2017-04-19-chained-builds/</guid>
+        <description>OpenShift provides different options for building and deploying containers on the platform. These generally include:
+   Build and deploy from application source code - Users can specify the location of their source code in a GIT repository. OpenShift will build the application binaries, then build the container images that include those binaries and deploy to OpenShift. Users can also specify a dockerfile as the source code to build container images from.</description>
+        
+        <dc:creator>jorgemoralespou</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>openshift</category>
+            
+          
+            
+              <category>origin</category>
+            
+          
+            
+              <category>development</category>
+            
+          
+            
+              <category>local</category>
+            
+          
+            
+              <category>devexp</category>
+            
+          
+            
+              <category>minishift</category>
+            
+          
+            
+              <category>build</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Developing locally with OpenShift - minishift, bringing it all together</title>
+        <link>http://jorgemoral.es/posts/2017-04-08-developing-locally-openshift-minishift/</link>
+        <pubDate>Sat, 08 Apr 2017 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Sat, 08 Apr 2017 00:00:00 +0000</atom:modified>
+        <guid>http://jorgemoral.es/posts/2017-04-08-developing-locally-openshift-minishift/</guid>
+        <description>We finally get to the last post of the series, and in this post I will introduce you to the tool that Developers will be using soon. It’s still not final and yet many features need to be planned and included, but will overcome all the problems I described in my previous posts.
+ There’s already a good blog post from Lalatendu Mohanty about what CDKv3 is so I will not go into many details.</description>
+        
+        <dc:creator>jorgemoralespou</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>openshift</category>
+            
+          
+            
+              <category>origin</category>
+            
+          
+            
+              <category>development</category>
+            
+          
+            
+              <category>local</category>
+            
+          
+            
+              <category>devexp</category>
+            
+          
+            
+              <category>minishift</category>
+            
+          
+            
+              <category>cdk</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Developing locally with OpenShift - State of the art</title>
+        <link>http://jorgemoral.es/posts/2017-04-05-developing-locally-openshift-state-of-the-art/</link>
+        <pubDate>Wed, 05 Apr 2017 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Wed, 05 Apr 2017 00:00:00 +0000</atom:modified>
+        <guid>http://jorgemoral.es/posts/2017-04-05-developing-locally-openshift-state-of-the-art/</guid>
+        <description>OpenShift v3 launched a year and a half ago and during this time we’ve been looking at different ways to run a local OpenShift development environment on the developer’s laptop. In this series of articles I will be introducing the options we have been providing and most importantly, I will describe the evolution in our approach..
+ But before digging into any particular solution, we need to set the ground rules of what a local development environment is and why it is important.</description>
+        
+        <dc:creator>jorgemoralespou</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>openshift</category>
+            
+          
+            
+              <category>origin</category>
+            
+          
+            
+              <category>development</category>
+            
+          
+            
+              <category>local</category>
+            
+          
+            
+              <category>devexp</category>
+            
+          
+            
+              <category>oc-cluster</category>
+            
+          
+            
+              <category>allinone</category>
+            
+          
+            
+              <category>minishift</category>
+            
+          
+            
+              <category>cdk</category>
+            
+          
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

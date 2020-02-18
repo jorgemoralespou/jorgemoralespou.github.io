@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>springboot on Learn the Origin</title>
+    <link>http://jorgemoral.es/tags/springboot/</link>
+    <description>Recent content in springboot on Learn the Origin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>©{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 03 Sep 2015 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="http://jorgemoral.es/tags/springboot/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Using OpenShift for Enterprise Grade Spring Boot Deployments</title>
+        <link>http://jorgemoral.es/posts/2015-09-03-deploying-springboot/</link>
+        <pubDate>Thu, 03 Sep 2015 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Thu, 03 Sep 2015 00:00:00 +0000</atom:modified>
+        <guid>http://jorgemoral.es/posts/2015-09-03-deploying-springboot/</guid>
+        <description>We live in a polyglot world where developers are using a vast array of different technologies to create applications that perform well, while also having the ability to scale to meet the demands of their application users. Of course, it is very easy to show the supported languages and runtimes that OpenShift provides out of the box, but to be realistic, many developers would like to see how we can bring other leading technologies into OpenShift and use them seamlessly.</description>
+        
+        <dc:creator>jorgemoralespou</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>openshift</category>
+            
+          
+            
+              <category>origin</category>
+            
+          
+            
+              <category>builds</category>
+            
+          
+            
+              <category>springboot</category>
+            
+          
+            
+              <category>java</category>
+            
+          
+            
+              <category>maven</category>
+            
+          
+            
+              <category>s2i</category>
+            
+          
+            
+              <category>gradle</category>
+            
+          
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

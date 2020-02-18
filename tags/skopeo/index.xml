@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>skopeo on Learn the Origin</title>
+    <link>http://jorgemoral.es/tags/skopeo/</link>
+    <description>Recent content in skopeo on Learn the Origin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>©{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Fri, 03 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="http://jorgemoral.es/tags/skopeo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Promoting container images between registries with skopeo</title>
+        <link>http://jorgemoral.es/posts/2018-08-03-promoting-images-with-skopeo/</link>
+        <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Fri, 03 Aug 2018 00:00:00 +0000</atom:modified>
+        <guid>http://jorgemoral.es/posts/2018-08-03-promoting-images-with-skopeo/</guid>
+        <description>OpenShift admins choose different architectures for their installations, but many use two discrete clusters to physically divide development and testing workloads from production deployments.
+We recommend having some Continuous Integration (CI) process in nearly every development scenario, to orchestrate the lifecycle of applications from the initial commit all the way into production. Continuous Integration can imply many different tasks related to application development, testing, and releases. In this article, I won’t directly address whether one should do Continuous Delivery or Continuous Deployment, as that depends on the maturity and complexity of the organization and the application.</description>
+        
+        <dc:creator>jorgemoralespou</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>openshift</category>
+            
+          
+            
+              <category>skopeo</category>
+            
+          
+            
+              <category>image</category>
+            
+          
+            
+              <category>promotion</category>
+            
+          
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

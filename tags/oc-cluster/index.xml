@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>oc-cluster on Learn the Origin</title>
+    <link>http://jorgemoral.es/tags/oc-cluster/</link>
+    <description>Recent content in oc-cluster on Learn the Origin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>©{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Wed, 05 Apr 2017 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="http://jorgemoral.es/tags/oc-cluster/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Developing locally with OpenShift - State of the art</title>
+        <link>http://jorgemoral.es/posts/2017-04-05-developing-locally-openshift-state-of-the-art/</link>
+        <pubDate>Wed, 05 Apr 2017 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Wed, 05 Apr 2017 00:00:00 +0000</atom:modified>
+        <guid>http://jorgemoral.es/posts/2017-04-05-developing-locally-openshift-state-of-the-art/</guid>
+        <description>OpenShift v3 launched a year and a half ago and during this time we’ve been looking at different ways to run a local OpenShift development environment on the developer’s laptop. In this series of articles I will be introducing the options we have been providing and most importantly, I will describe the evolution in our approach..
+ But before digging into any particular solution, we need to set the ground rules of what a local development environment is and why it is important.</description>
+        
+        <dc:creator>jorgemoralespou</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>openshift</category>
+            
+          
+            
+              <category>origin</category>
+            
+          
+            
+              <category>development</category>
+            
+          
+            
+              <category>local</category>
+            
+          
+            
+              <category>devexp</category>
+            
+          
+            
+              <category>oc-cluster</category>
+            
+          
+            
+              <category>allinone</category>
+            
+          
+            
+              <category>minishift</category>
+            
+          
+            
+              <category>cdk</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Developing locally with OpenShift</title>
+        <link>http://jorgemoral.es/posts/2016-10-20-developing-locally-with-openshift/</link>
+        <pubDate>Thu, 20 Oct 2016 20:39:50 +0100</pubDate>
+        
+        <atom:modified>Thu, 20 Oct 2016 20:39:50 +0100</atom:modified>
+        <guid>http://jorgemoral.es/posts/2016-10-20-developing-locally-with-openshift/</guid>
+        <description>In this blog, I&amp;#8217;m going to describe what are my requirements when looking for a way to develop locally using OpenShift, and I&amp;#8217;ll describe a tool I have created to help me with this workflow.
+ First of all, I have to say that I&amp;#8217;m not only a developer, so maybe the workflow I&amp;#8217;m looking for is too complex, so I&amp;#8217;m still experimenting to refine not only the workflow but also the tooling.</description>
+        
+        <dc:creator>jorgemoralespou</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>openshift</category>
+            
+          
+            
+              <category>origin</category>
+            
+          
+            
+              <category>development</category>
+            
+          
+            
+              <category>local</category>
+            
+          
+            
+              <category>devexp</category>
+            
+          
+            
+              <category>oc-cluster</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Developing locally with OpenShift - “oc cluster up”, the fastest way to get a local cluster</title>
+        <link>http://jorgemoral.es/posts/2017-04-07-developing-locally-openshift-oc-cluster/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        
+        <guid>http://jorgemoral.es/posts/2017-04-07-developing-locally-openshift-oc-cluster/</guid>
+        <description>Some time after we launched, we realized how easy it was to run OpenShift itself as a Docker container, as that’s one of the possible ways to install and run OpenShift. Our lead architect, Clayton Coleman, realized that since every developer will probably have the “oc” (OpenShift client) client tool available on their machines, it could be very easy to add some behaviour to that client to bootstrap a local OpenShift instance.</description>
+        
+        <dc:creator>jorgemoralespou</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>openshift</category>
+            
+          
+            
+              <category>origin</category>
+            
+          
+            
+              <category>development</category>
+            
+          
+            
+              <category>local</category>
+            
+          
+            
+              <category>devexp</category>
+            
+          
+            
+              <category>oc-cluster</category>
+            
+          
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>odo on Learn the Origin</title>
+    <link>http://jorgemoral.es/tags/odo/</link>
+    <description>Recent content in odo on Learn the Origin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>©{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Fri, 03 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="http://jorgemoral.es/tags/odo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Developing applications on OpenShift in an easier way</title>
+        <link>http://jorgemoral.es/posts/2018-12-26-developing-apps-in-openshift-with-odo/</link>
+        <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Fri, 03 Aug 2018 00:00:00 +0000</atom:modified>
+        <guid>http://jorgemoral.es/posts/2018-12-26-developing-apps-in-openshift-with-odo/</guid>
+        <description>Have you ever developed applications on a platform like Red Hat OpenShift?
+I’m a Java developer with more than 15 years of coding experience, and while I’ve been working with OpenShift for over three years now, I never found it easy to use or compelling as a day to day development platform. Why? There are many reasons to this question, but the key ones are, complexity and speed. Before you call me a troll, allow me to explain.</description>
+        
+        <dc:creator>jorgemoralespou</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>openshift</category>
+            
+          
+            
+              <category>development</category>
+            
+          
+            
+              <category>local</category>
+            
+          
+            
+              <category>devexp</category>
+            
+          
+            
+              <category>odo</category>
+            
+          
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

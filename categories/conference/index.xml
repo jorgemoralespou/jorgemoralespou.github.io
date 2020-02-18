@@ -1,0 +1,910 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>conference on Learn the Origin</title>
+    <link>http://jorgemoral.es/categories/conference/</link>
+    <description>Recent content in conference on Learn the Origin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>©{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 26 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="http://jorgemoral.es/categories/conference/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>DevConf 20</title>
+        <link>http://jorgemoral.es/talks/2020-01-26-devconf20/</link>
+        <pubDate>Sun, 26 Jan 2020 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Sun, 26 Jan 2020 00:00:00 +0000</atom:modified>
+        <guid>http://jorgemoral.es/talks/2020-01-26-devconf20/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge Morales</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>devconf</category>
+            
+          
+        
+        
+          
+            
+              <category>conference</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>OpenStack Summit EU &#39;19</title>
+        <link>http://jorgemoral.es/talks/2018-11-13-openstacksummit19-eu/</link>
+        <pubDate>Wed, 13 Nov 2019 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Wed, 13 Nov 2019 00:00:00 +0000</atom:modified>
+        <guid>http://jorgemoral.es/talks/2018-11-13-openstacksummit19-eu/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge Morales</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>openstacksummit</category>
+            
+          
+        
+        
+          
+            
+              <category>conference</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>KubeCon China 19</title>
+        <link>http://jorgemoral.es/talks/2019-06-25-kubecon-china-19/</link>
+        <pubDate>Tue, 25 Jun 2019 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Tue, 25 Jun 2019 00:00:00 +0000</atom:modified>
+        <guid>http://jorgemoral.es/talks/2019-06-25-kubecon-china-19/</guid>
+        <description>KubeCon China 2019 - Shangai</description>
+        
+        <dc:creator>Jorge Morales</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>kubecon</category>
+            
+          
+        
+        
+          
+            
+              <category>conference</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>jBCNConf 19</title>
+        <link>http://jorgemoral.es/talks/2019-05-29-jbcnconf19/</link>
+        <pubDate>Wed, 29 May 2019 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Wed, 29 May 2019 00:00:00 +0000</atom:modified>
+        <guid>http://jorgemoral.es/talks/2019-05-29-jbcnconf19/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge Morales</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>jbcnconf</category>
+            
+          
+        
+        
+          
+            
+              <category>conference</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Red Hat Summit 19</title>
+        <link>http://jorgemoral.es/talks/2019-05-07-rhsummit19/</link>
+        <pubDate>Tue, 07 May 2019 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Tue, 07 May 2019 00:00:00 +0000</atom:modified>
+        <guid>http://jorgemoral.es/talks/2019-05-07-rhsummit19/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge Morales</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>rhsummit</category>
+            
+          
+        
+        
+          
+            
+              <category>conference</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Foss Asia 19</title>
+        <link>http://jorgemoral.es/talks/2019-03-16-fossasia/</link>
+        <pubDate>Sat, 16 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Sat, 16 Mar 2019 00:00:00 +0000</atom:modified>
+        <guid>http://jorgemoral.es/talks/2019-03-16-fossasia/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge Morales</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>fossasia</category>
+            
+          
+        
+        
+          
+            
+              <category>conference</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>DevConf 19</title>
+        <link>http://jorgemoral.es/talks/2019-01-25-devconf19/</link>
+        <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Fri, 25 Jan 2019 00:00:00 +0000</atom:modified>
+        <guid>http://jorgemoral.es/talks/2019-01-25-devconf19/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge Morales</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>devconf</category>
+            
+          
+        
+        
+          
+            
+              <category>conference</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>DevConf India &#39;18</title>
+        <link>http://jorgemoral.es/talks/2018-08-05-devconf18-india/</link>
+        <pubDate>Sun, 05 Aug 2018 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Sun, 05 Aug 2018 00:00:00 +0000</atom:modified>
+        <guid>http://jorgemoral.es/talks/2018-08-05-devconf18-india/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge Morales</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>devconf</category>
+            
+          
+        
+        
+          
+            
+              <category>conference</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>OpenShift Roadshow &#39;18 - Israel</title>
+        <link>http://jorgemoral.es/talks/2018-06-26-openshift-roadshow-israel/</link>
+        <pubDate>Tue, 26 Jun 2018 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Tue, 26 Jun 2018 00:00:00 +0000</atom:modified>
+        <guid>http://jorgemoral.es/talks/2018-06-26-openshift-roadshow-israel/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge Morales</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>openshiftroadshow</category>
+            
+          
+        
+        
+          
+            
+              <category>conference</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Dev Days &#39;18 - Riga</title>
+        <link>http://jorgemoral.es/talks/2018-05-30-devdays18-riga/</link>
+        <pubDate>Wed, 30 May 2018 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Wed, 30 May 2018 00:00:00 +0000</atom:modified>
+        <guid>http://jorgemoral.es/talks/2018-05-30-devdays18-riga/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge Morales</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>devdays</category>
+            
+          
+        
+        
+          
+            
+              <category>conference</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Red Hat Summit 18</title>
+        <link>http://jorgemoral.es/talks/2018-05-18-rhsummit18/</link>
+        <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Fri, 18 May 2018 00:00:00 +0000</atom:modified>
+        <guid>http://jorgemoral.es/talks/2018-05-18-rhsummit18/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge Morales</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>rhsummit</category>
+            
+          
+        
+        
+          
+            
+              <category>conference</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>DevNexus 18</title>
+        <link>http://jorgemoral.es/talks/2018-02-20-devnexus/</link>
+        <pubDate>Tue, 20 Feb 2018 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Tue, 20 Feb 2018 00:00:00 +0000</atom:modified>
+        <guid>http://jorgemoral.es/talks/2018-02-20-devnexus/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge Morales</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>devnexus</category>
+            
+          
+        
+        
+          
+            
+              <category>conference</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Red Hat Tech Sparks 18</title>
+        <link>http://jorgemoral.es/talks/2018-01-27-rhtechsparks/</link>
+        <pubDate>Sat, 27 Jan 2018 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Sat, 27 Jan 2018 00:00:00 +0000</atom:modified>
+        <guid>http://jorgemoral.es/talks/2018-01-27-rhtechsparks/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge Morales</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>rhtechsparks</category>
+            
+          
+        
+        
+          
+            
+              <category>conference</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>OpenStack Summit Australia &#39;17</title>
+        <link>http://jorgemoral.es/talks/2017-10-05-openstacksummit17-australia/</link>
+        <pubDate>Thu, 05 Oct 2017 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Thu, 05 Oct 2017 00:00:00 +0000</atom:modified>
+        <guid>http://jorgemoral.es/talks/2017-10-05-openstacksummit17-australia/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge Morales</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>devconf</category>
+            
+          
+        
+        
+          
+            
+              <category>conference</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>PHP NorthEast &#39;17</title>
+        <link>http://jorgemoral.es/talks/2017-08-10-phpnortheast/</link>
+        <pubDate>Thu, 10 Aug 2017 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Thu, 10 Aug 2017 00:00:00 +0000</atom:modified>
+        <guid>http://jorgemoral.es/talks/2017-08-10-phpnortheast/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge Morales</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>phpnortheast</category>
+            
+          
+        
+        
+          
+            
+              <category>conference</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>OpenShift Roadshow &#39;17 - Paris - CHANGEME</title>
+        <link>http://jorgemoral.es/talks/2017-05-15-openshift-roadshow-paris/</link>
+        <pubDate>Mon, 15 May 2017 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Mon, 15 May 2017 00:00:00 +0000</atom:modified>
+        <guid>http://jorgemoral.es/talks/2017-05-15-openshift-roadshow-paris/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge Morales</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>docker-meetup</category>
+            
+          
+        
+        
+          
+            
+              <category>conference</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Red Hat Summit 17</title>
+        <link>http://jorgemoral.es/talks/2017-05-03-rhsummit17/</link>
+        <pubDate>Wed, 03 May 2017 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Wed, 03 May 2017 00:00:00 +0000</atom:modified>
+        <guid>http://jorgemoral.es/talks/2017-05-03-rhsummit17/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge Morales</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>rhsummit</category>
+            
+          
+        
+        
+          
+            
+              <category>conference</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>OpenShift Roadshow &#39;17 - Amsterdam</title>
+        <link>http://jorgemoral.es/talks/2017-02-26-openshift-roadshow-amsterdam/</link>
+        <pubDate>Sun, 26 Feb 2017 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Sun, 26 Feb 2017 00:00:00 +0000</atom:modified>
+        <guid>http://jorgemoral.es/talks/2017-02-26-openshift-roadshow-amsterdam/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge Morales</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>openshift-roadshow</category>
+            
+          
+        
+        
+          
+            
+              <category>conference</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>OpenShift Roadshow &#39;17 - Brussels</title>
+        <link>http://jorgemoral.es/talks/2017-02-13-openshift-roadshow-brussels/</link>
+        <pubDate>Mon, 13 Feb 2017 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Mon, 13 Feb 2017 00:00:00 +0000</atom:modified>
+        <guid>http://jorgemoral.es/talks/2017-02-13-openshift-roadshow-brussels/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge Morales</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>openshift-roadshow</category>
+            
+          
+        
+        
+          
+            
+              <category>conference</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>DevConf 17</title>
+        <link>http://jorgemoral.es/talks/2017-01-26-devconf17/</link>
+        <pubDate>Thu, 26 Jan 2017 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Thu, 26 Jan 2017 00:00:00 +0000</atom:modified>
+        <guid>http://jorgemoral.es/talks/2017-01-26-devconf17/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge Morales</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>devconf</category>
+            
+          
+        
+        
+          
+            
+              <category>conference</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>OpenShift Roadshow &#39;16 - NYC</title>
+        <link>http://jorgemoral.es/talks/2016-12-05-openshift-roadshow-nyc/</link>
+        <pubDate>Mon, 05 Dec 2016 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Mon, 05 Dec 2016 00:00:00 +0000</atom:modified>
+        <guid>http://jorgemoral.es/talks/2016-12-05-openshift-roadshow-nyc/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge Morales</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>openshift-roadshow</category>
+            
+          
+        
+        
+          
+            
+              <category>conference</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Red Hat Summit 16&#34;</title>
+        <link>http://jorgemoral.es/talks/2016-06-24-rhsummit16/</link>
+        <pubDate>Fri, 24 Jun 2016 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Fri, 24 Jun 2016 00:00:00 +0000</atom:modified>
+        <guid>http://jorgemoral.es/talks/2016-06-24-rhsummit16/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge Morales</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>rhsummit</category>
+            
+          
+        
+        
+          
+            
+              <category>conference</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>DevConf 2016</title>
+        <link>http://jorgemoral.es/talks/2016-02-01-devconf16/</link>
+        <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Mon, 01 Feb 2016 00:00:00 +0000</atom:modified>
+        <guid>http://jorgemoral.es/talks/2016-02-01-devconf16/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge Morales</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>devconf</category>
+            
+          
+        
+        
+          
+            
+              <category>conference</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>OpenShift Roadshow &#39;15 - Moscow</title>
+        <link>http://jorgemoral.es/talks/2015-11-18-openshift-roadshow-moscow/</link>
+        <pubDate>Wed, 18 Nov 2015 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Wed, 18 Nov 2015 00:00:00 +0000</atom:modified>
+        <guid>http://jorgemoral.es/talks/2015-11-18-openshift-roadshow-moscow/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge Morales</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>openshift-roadshow</category>
+            
+          
+        
+        
+          
+            
+              <category>conference</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Devoxx Belgium 2015</title>
+        <link>http://jorgemoral.es/talks/2015-11-11-devoxx-be/</link>
+        <pubDate>Wed, 11 Nov 2015 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Wed, 11 Nov 2015 00:00:00 +0000</atom:modified>
+        <guid>http://jorgemoral.es/talks/2015-11-11-devoxx-be/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge Morales</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>devoxx</category>
+            
+          
+        
+        
+          
+            
+              <category>conference</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>OpenShift Roadshow &#39;15 - London</title>
+        <link>http://jorgemoral.es/talks/2015-11-02-openshift-roadshow-london/</link>
+        <pubDate>Mon, 02 Nov 2015 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Mon, 02 Nov 2015 00:00:00 +0000</atom:modified>
+        <guid>http://jorgemoral.es/talks/2015-11-02-openshift-roadshow-london/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge Morales</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>openshift-roadshow</category>
+            
+          
+        
+        
+          
+            
+              <category>conference</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

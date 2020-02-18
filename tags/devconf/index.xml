@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>devconf on Learn the Origin</title>
+    <link>http://jorgemoral.es/tags/devconf/</link>
+    <description>Recent content in devconf on Learn the Origin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>©{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 26 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="http://jorgemoral.es/tags/devconf/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>DevConf 20</title>
+        <link>http://jorgemoral.es/talks/2020-01-26-devconf20/</link>
+        <pubDate>Sun, 26 Jan 2020 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Sun, 26 Jan 2020 00:00:00 +0000</atom:modified>
+        <guid>http://jorgemoral.es/talks/2020-01-26-devconf20/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge Morales</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>devconf</category>
+            
+          
+        
+        
+          
+            
+              <category>conference</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>DevConf 19</title>
+        <link>http://jorgemoral.es/talks/2019-01-25-devconf19/</link>
+        <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Fri, 25 Jan 2019 00:00:00 +0000</atom:modified>
+        <guid>http://jorgemoral.es/talks/2019-01-25-devconf19/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge Morales</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>devconf</category>
+            
+          
+        
+        
+          
+            
+              <category>conference</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>DevConf India &#39;18</title>
+        <link>http://jorgemoral.es/talks/2018-08-05-devconf18-india/</link>
+        <pubDate>Sun, 05 Aug 2018 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Sun, 05 Aug 2018 00:00:00 +0000</atom:modified>
+        <guid>http://jorgemoral.es/talks/2018-08-05-devconf18-india/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge Morales</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>devconf</category>
+            
+          
+        
+        
+          
+            
+              <category>conference</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>OpenStack Summit Australia &#39;17</title>
+        <link>http://jorgemoral.es/talks/2017-10-05-openstacksummit17-australia/</link>
+        <pubDate>Thu, 05 Oct 2017 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Thu, 05 Oct 2017 00:00:00 +0000</atom:modified>
+        <guid>http://jorgemoral.es/talks/2017-10-05-openstacksummit17-australia/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge Morales</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>devconf</category>
+            
+          
+        
+        
+          
+            
+              <category>conference</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>DevConf 17</title>
+        <link>http://jorgemoral.es/talks/2017-01-26-devconf17/</link>
+        <pubDate>Thu, 26 Jan 2017 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Thu, 26 Jan 2017 00:00:00 +0000</atom:modified>
+        <guid>http://jorgemoral.es/talks/2017-01-26-devconf17/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge Morales</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>devconf</category>
+            
+          
+        
+        
+          
+            
+              <category>conference</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>DevConf 2016</title>
+        <link>http://jorgemoral.es/talks/2016-02-01-devconf16/</link>
+        <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Mon, 01 Feb 2016 00:00:00 +0000</atom:modified>
+        <guid>http://jorgemoral.es/talks/2016-02-01-devconf16/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge Morales</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>devconf</category>
+            
+          
+        
+        
+          
+            
+              <category>conference</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

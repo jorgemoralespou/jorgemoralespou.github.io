@@ -1,0 +1,764 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Tags on Learn the Origin</title>
+    <link>http://jorgemoral.es/tags/</link>
+    <description>Recent content in Tags on Learn the Origin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>©{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 26 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="http://jorgemoral.es/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>devconf</title>
+        <link>http://jorgemoral.es/tags/devconf/</link>
+        <pubDate>Sun, 26 Jan 2020 00:00:00 +0000</pubDate>
+        
+        
+        <guid>http://jorgemoral.es/tags/devconf/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge Morales</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>openstacksummit</title>
+        <link>http://jorgemoral.es/tags/openstacksummit/</link>
+        <pubDate>Wed, 13 Nov 2019 00:00:00 +0000</pubDate>
+        
+        
+        <guid>http://jorgemoral.es/tags/openstacksummit/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge Morales</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>kubecon</title>
+        <link>http://jorgemoral.es/tags/kubecon/</link>
+        <pubDate>Tue, 25 Jun 2019 00:00:00 +0000</pubDate>
+        
+        
+        <guid>http://jorgemoral.es/tags/kubecon/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge Morales</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>jbcnconf</title>
+        <link>http://jorgemoral.es/tags/jbcnconf/</link>
+        <pubDate>Wed, 29 May 2019 00:00:00 +0000</pubDate>
+        
+        
+        <guid>http://jorgemoral.es/tags/jbcnconf/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge Morales</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>rhsummit</title>
+        <link>http://jorgemoral.es/tags/rhsummit/</link>
+        <pubDate>Tue, 07 May 2019 00:00:00 +0000</pubDate>
+        
+        
+        <guid>http://jorgemoral.es/tags/rhsummit/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge Morales</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>fossasia</title>
+        <link>http://jorgemoral.es/tags/fossasia/</link>
+        <pubDate>Sat, 16 Mar 2019 00:00:00 +0000</pubDate>
+        
+        
+        <guid>http://jorgemoral.es/tags/fossasia/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge Morales</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>development</title>
+        <link>http://jorgemoral.es/tags/development/</link>
+        <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
+        
+        
+        <guid>http://jorgemoral.es/tags/development/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge Morales</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>devexp</title>
+        <link>http://jorgemoral.es/tags/devexp/</link>
+        <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
+        
+        
+        <guid>http://jorgemoral.es/tags/devexp/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge Morales</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>image</title>
+        <link>http://jorgemoral.es/tags/image/</link>
+        <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
+        
+        
+        <guid>http://jorgemoral.es/tags/image/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge Morales</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>local</title>
+        <link>http://jorgemoral.es/tags/local/</link>
+        <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
+        
+        
+        <guid>http://jorgemoral.es/tags/local/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge Morales</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>odo</title>
+        <link>http://jorgemoral.es/tags/odo/</link>
+        <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
+        
+        
+        <guid>http://jorgemoral.es/tags/odo/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge Morales</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>openshift</title>
+        <link>http://jorgemoral.es/tags/openshift/</link>
+        <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
+        
+        
+        <guid>http://jorgemoral.es/tags/openshift/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge Morales</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>promotion</title>
+        <link>http://jorgemoral.es/tags/promotion/</link>
+        <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
+        
+        
+        <guid>http://jorgemoral.es/tags/promotion/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge Morales</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>skopeo</title>
+        <link>http://jorgemoral.es/tags/skopeo/</link>
+        <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
+        
+        
+        <guid>http://jorgemoral.es/tags/skopeo/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge Morales</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>minishift</title>
+        <link>http://jorgemoral.es/tags/minishift/</link>
+        <pubDate>Thu, 12 Jul 2018 00:00:00 +0000</pubDate>
+        
+        
+        <guid>http://jorgemoral.es/tags/minishift/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge Morales</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>openshiftroadshow</title>
+        <link>http://jorgemoral.es/tags/openshiftroadshow/</link>
+        <pubDate>Tue, 26 Jun 2018 00:00:00 +0000</pubDate>
+        
+        
+        <guid>http://jorgemoral.es/tags/openshiftroadshow/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge Morales</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>devdays</title>
+        <link>http://jorgemoral.es/tags/devdays/</link>
+        <pubDate>Wed, 30 May 2018 00:00:00 +0000</pubDate>
+        
+        
+        <guid>http://jorgemoral.es/tags/devdays/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge Morales</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>devnexus</title>
+        <link>http://jorgemoral.es/tags/devnexus/</link>
+        <pubDate>Tue, 20 Feb 2018 00:00:00 +0000</pubDate>
+        
+        
+        <guid>http://jorgemoral.es/tags/devnexus/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge Morales</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>rhtechsparks</title>
+        <link>http://jorgemoral.es/tags/rhtechsparks/</link>
+        <pubDate>Sat, 27 Jan 2018 00:00:00 +0000</pubDate>
+        
+        
+        <guid>http://jorgemoral.es/tags/rhtechsparks/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge Morales</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>phpnortheast</title>
+        <link>http://jorgemoral.es/tags/phpnortheast/</link>
+        <pubDate>Thu, 10 Aug 2017 00:00:00 +0000</pubDate>
+        
+        
+        <guid>http://jorgemoral.es/tags/phpnortheast/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge Morales</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>build</title>
+        <link>http://jorgemoral.es/tags/build/</link>
+        <pubDate>Wed, 19 Jul 2017 00:00:00 +0000</pubDate>
+        
+        
+        <guid>http://jorgemoral.es/tags/build/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge Morales</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>helm</title>
+        <link>http://jorgemoral.es/tags/helm/</link>
+        <pubDate>Wed, 19 Jul 2017 00:00:00 +0000</pubDate>
+        
+        
+        <guid>http://jorgemoral.es/tags/helm/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge Morales</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>origin</title>
+        <link>http://jorgemoral.es/tags/origin/</link>
+        <pubDate>Wed, 19 Jul 2017 00:00:00 +0000</pubDate>
+        
+        
+        <guid>http://jorgemoral.es/tags/origin/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge Morales</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>docker-meetup</title>
+        <link>http://jorgemoral.es/tags/docker-meetup/</link>
+        <pubDate>Mon, 15 May 2017 00:00:00 +0000</pubDate>
+        
+        
+        <guid>http://jorgemoral.es/tags/docker-meetup/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge Morales</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>cdk</title>
+        <link>http://jorgemoral.es/tags/cdk/</link>
+        <pubDate>Sat, 08 Apr 2017 00:00:00 +0000</pubDate>
+        
+        
+        <guid>http://jorgemoral.es/tags/cdk/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge Morales</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>allinone</title>
+        <link>http://jorgemoral.es/tags/allinone/</link>
+        <pubDate>Thu, 06 Apr 2017 00:00:00 +0000</pubDate>
+        
+        
+        <guid>http://jorgemoral.es/tags/allinone/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge Morales</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>oc-cluster</title>
+        <link>http://jorgemoral.es/tags/oc-cluster/</link>
+        <pubDate>Wed, 05 Apr 2017 00:00:00 +0000</pubDate>
+        
+        
+        <guid>http://jorgemoral.es/tags/oc-cluster/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge Morales</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>openshift-roadshow</title>
+        <link>http://jorgemoral.es/tags/openshift-roadshow/</link>
+        <pubDate>Sun, 26 Feb 2017 00:00:00 +0000</pubDate>
+        
+        
+        <guid>http://jorgemoral.es/tags/openshift-roadshow/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge Morales</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>config</title>
+        <link>http://jorgemoral.es/tags/config/</link>
+        <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+        
+        
+        <guid>http://jorgemoral.es/tags/config/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge Morales</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>configmap</title>
+        <link>http://jorgemoral.es/tags/configmap/</link>
+        <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+        
+        
+        <guid>http://jorgemoral.es/tags/configmap/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge Morales</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>scc</title>
+        <link>http://jorgemoral.es/tags/scc/</link>
+        <pubDate>Fri, 15 Apr 2016 00:00:00 +0000</pubDate>
+        
+        
+        <guid>http://jorgemoral.es/tags/scc/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge Morales</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>builds</title>
+        <link>http://jorgemoral.es/tags/builds/</link>
+        <pubDate>Mon, 18 Jan 2016 09:00:00 +0000</pubDate>
+        
+        
+        <guid>http://jorgemoral.es/tags/builds/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge Morales</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>java</title>
+        <link>http://jorgemoral.es/tags/java/</link>
+        <pubDate>Mon, 18 Jan 2016 09:00:00 +0000</pubDate>
+        
+        
+        <guid>http://jorgemoral.es/tags/java/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge Morales</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>maven</title>
+        <link>http://jorgemoral.es/tags/maven/</link>
+        <pubDate>Mon, 18 Jan 2016 09:00:00 +0000</pubDate>
+        
+        
+        <guid>http://jorgemoral.es/tags/maven/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge Morales</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>nexus</title>
+        <link>http://jorgemoral.es/tags/nexus/</link>
+        <pubDate>Mon, 18 Jan 2016 09:00:00 +0000</pubDate>
+        
+        
+        <guid>http://jorgemoral.es/tags/nexus/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge Morales</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>devoxx</title>
+        <link>http://jorgemoral.es/tags/devoxx/</link>
+        <pubDate>Wed, 11 Nov 2015 00:00:00 +0000</pubDate>
+        
+        
+        <guid>http://jorgemoral.es/tags/devoxx/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge Morales</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>gradle</title>
+        <link>http://jorgemoral.es/tags/gradle/</link>
+        <pubDate>Thu, 03 Sep 2015 00:00:00 +0000</pubDate>
+        
+        
+        <guid>http://jorgemoral.es/tags/gradle/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge Morales</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>s2i</title>
+        <link>http://jorgemoral.es/tags/s2i/</link>
+        <pubDate>Thu, 03 Sep 2015 00:00:00 +0000</pubDate>
+        
+        
+        <guid>http://jorgemoral.es/tags/s2i/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge Morales</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>springboot</title>
+        <link>http://jorgemoral.es/tags/springboot/</link>
+        <pubDate>Thu, 03 Sep 2015 00:00:00 +0000</pubDate>
+        
+        
+        <guid>http://jorgemoral.es/tags/springboot/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge Morales</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>applications</title>
+        <link>http://jorgemoral.es/tags/applications/</link>
+        <pubDate>Fri, 14 Aug 2015 00:00:00 +0000</pubDate>
+        
+        
+        <guid>http://jorgemoral.es/tags/applications/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge Morales</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>templates</title>
+        <link>http://jorgemoral.es/tags/templates/</link>
+        <pubDate>Fri, 14 Aug 2015 00:00:00 +0000</pubDate>
+        
+        
+        <guid>http://jorgemoral.es/tags/templates/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge Morales</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
