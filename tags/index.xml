@@ -131,7 +131,7 @@
       <item>
         <title>development</title>
         <link>http://jorgemoral.es/tags/development/</link>
-        <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
+        <pubDate>Wed, 26 Dec 2018 00:00:00 +0000</pubDate>
         
         
         <guid>http://jorgemoral.es/tags/development/</guid>
@@ -149,10 +149,64 @@
       <item>
         <title>devexp</title>
         <link>http://jorgemoral.es/tags/devexp/</link>
-        <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
+        <pubDate>Wed, 26 Dec 2018 00:00:00 +0000</pubDate>
         
         
         <guid>http://jorgemoral.es/tags/devexp/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge Morales</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>local</title>
+        <link>http://jorgemoral.es/tags/local/</link>
+        <pubDate>Wed, 26 Dec 2018 00:00:00 +0000</pubDate>
+        
+        
+        <guid>http://jorgemoral.es/tags/local/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge Morales</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>odo</title>
+        <link>http://jorgemoral.es/tags/odo/</link>
+        <pubDate>Wed, 26 Dec 2018 00:00:00 +0000</pubDate>
+        
+        
+        <guid>http://jorgemoral.es/tags/odo/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge Morales</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>openshift</title>
+        <link>http://jorgemoral.es/tags/openshift/</link>
+        <pubDate>Wed, 26 Dec 2018 00:00:00 +0000</pubDate>
+        
+        
+        <guid>http://jorgemoral.es/tags/openshift/</guid>
         <description></description>
         
         <dc:creator>Jorge Morales</dc:creator>
@@ -171,60 +225,6 @@
         
         
         <guid>http://jorgemoral.es/tags/image/</guid>
-        <description></description>
-        
-        <dc:creator>Jorge Morales</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>local</title>
-        <link>http://jorgemoral.es/tags/local/</link>
-        <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
-        
-        
-        <guid>http://jorgemoral.es/tags/local/</guid>
-        <description></description>
-        
-        <dc:creator>Jorge Morales</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>odo</title>
-        <link>http://jorgemoral.es/tags/odo/</link>
-        <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
-        
-        
-        <guid>http://jorgemoral.es/tags/odo/</guid>
-        <description></description>
-        
-        <dc:creator>Jorge Morales</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>openshift</title>
-        <link>http://jorgemoral.es/tags/openshift/</link>
-        <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
-        
-        
-        <guid>http://jorgemoral.es/tags/openshift/</guid>
         <description></description>
         
         <dc:creator>Jorge Morales</dc:creator>

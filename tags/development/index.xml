@@ -12,7 +12,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>©{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Fri, 03 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Dec 2018 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="http://jorgemoral.es/tags/development/index.xml" rel="self" type="application/rss+xml" />
     
@@ -23,9 +23,9 @@
       <item>
         <title>Developing applications on OpenShift in an easier way</title>
         <link>http://jorgemoral.es/posts/2018-12-26-developing-apps-in-openshift-with-odo/</link>
-        <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
+        <pubDate>Wed, 26 Dec 2018 00:00:00 +0000</pubDate>
         
-        <atom:modified>Fri, 03 Aug 2018 00:00:00 +0000</atom:modified>
+        <atom:modified>Wed, 26 Dec 2018 00:00:00 +0000</atom:modified>
         <guid>http://jorgemoral.es/posts/2018-12-26-developing-apps-in-openshift-with-odo/</guid>
         <description>Have you ever developed applications on a platform like Red Hat OpenShift?
 I’m a Java developer with more than 15 years of coding experience, and while I’ve been working with OpenShift for over three years now, I never found it easy to use or compelling as a day to day development platform. Why? There are many reasons to this question, but the key ones are, complexity and speed. Before you call me a troll, allow me to explain.</description>
