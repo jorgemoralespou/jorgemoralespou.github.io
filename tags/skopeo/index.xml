@@ -6,9 +6,9 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>skopeo on Learn the Origin</title>
+    <title>skopeo on Failing with Kubernetes</title>
     <link>http://jorgemoral.es/tags/skopeo/</link>
-    <description>Recent content in skopeo on Learn the Origin</description>
+    <description>Recent content in skopeo on Failing with Kubernetes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>©{year}, All Rights Reserved</copyright>
