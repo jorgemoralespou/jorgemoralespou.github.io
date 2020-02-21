@@ -12,7 +12,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>©{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sun, 26 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Feb 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="http://jorgemoral.es/index.xml" rel="self" type="application/rss+xml" />
     
@@ -40,6 +40,50 @@
         
       
 
+      
+      <item>
+        <title>Developing applications on Kubernetes - Intro</title>
+        <link>http://jorgemoral.es/posts/2020_02_21-develop_apps_in_k8s_and_not_die_trying-intro/</link>
+        <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Fri, 21 Feb 2020 00:00:00 +0000</atom:modified>
+        <guid>http://jorgemoral.es/posts/2020_02_21-develop_apps_in_k8s_and_not_die_trying-intro/</guid>
+        <description>Not too long ago I read a blog and found this quote:
+ “It&amp;rsquo;s almost become boring to say that Kubernetes has become boring”
+ Maciej Szulik, the author, is a Kubernetes engineer working for Red Hat and SIG CLI lead amongst other things.
+I’ve seen this quote being said more times than I would think, and all of the times it’s being said by a Kubernetes ecosystem engineer.
+What do I think they mean when they say Kubernetes has become boring?</description>
+        
+        <dc:creator>jorgemoralespou</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>openshift</category>
+            
+          
+            
+              <category>development</category>
+            
+          
+            
+              <category>local</category>
+            
+          
+            
+              <category>devexp</category>
+            
+          
+            
+              <category>odo</category>
+            
+          
+        
+        
+        
+      </item>
       
       <item>
         <title>Developing applications on OpenShift in an easier way</title>

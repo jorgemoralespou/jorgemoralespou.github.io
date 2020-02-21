@@ -12,13 +12,103 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>©{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sun, 26 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Feb 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="http://jorgemoral.es/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>development</title>
+        <link>http://jorgemoral.es/tags/development/</link>
+        <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
+        
+        
+        <guid>http://jorgemoral.es/tags/development/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge Morales</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>devexp</title>
+        <link>http://jorgemoral.es/tags/devexp/</link>
+        <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
+        
+        
+        <guid>http://jorgemoral.es/tags/devexp/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge Morales</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>local</title>
+        <link>http://jorgemoral.es/tags/local/</link>
+        <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
+        
+        
+        <guid>http://jorgemoral.es/tags/local/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge Morales</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>odo</title>
+        <link>http://jorgemoral.es/tags/odo/</link>
+        <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
+        
+        
+        <guid>http://jorgemoral.es/tags/odo/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge Morales</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>openshift</title>
+        <link>http://jorgemoral.es/tags/openshift/</link>
+        <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
+        
+        
+        <guid>http://jorgemoral.es/tags/openshift/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge Morales</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>devconf</title>
@@ -117,96 +207,6 @@
         
         
         <guid>http://jorgemoral.es/tags/fossasia/</guid>
-        <description></description>
-        
-        <dc:creator>Jorge Morales</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>development</title>
-        <link>http://jorgemoral.es/tags/development/</link>
-        <pubDate>Wed, 26 Dec 2018 00:00:00 +0000</pubDate>
-        
-        
-        <guid>http://jorgemoral.es/tags/development/</guid>
-        <description></description>
-        
-        <dc:creator>Jorge Morales</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>devexp</title>
-        <link>http://jorgemoral.es/tags/devexp/</link>
-        <pubDate>Wed, 26 Dec 2018 00:00:00 +0000</pubDate>
-        
-        
-        <guid>http://jorgemoral.es/tags/devexp/</guid>
-        <description></description>
-        
-        <dc:creator>Jorge Morales</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>local</title>
-        <link>http://jorgemoral.es/tags/local/</link>
-        <pubDate>Wed, 26 Dec 2018 00:00:00 +0000</pubDate>
-        
-        
-        <guid>http://jorgemoral.es/tags/local/</guid>
-        <description></description>
-        
-        <dc:creator>Jorge Morales</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>odo</title>
-        <link>http://jorgemoral.es/tags/odo/</link>
-        <pubDate>Wed, 26 Dec 2018 00:00:00 +0000</pubDate>
-        
-        
-        <guid>http://jorgemoral.es/tags/odo/</guid>
-        <description></description>
-        
-        <dc:creator>Jorge Morales</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>openshift</title>
-        <link>http://jorgemoral.es/tags/openshift/</link>
-        <pubDate>Wed, 26 Dec 2018 00:00:00 +0000</pubDate>
-        
-        
-        <guid>http://jorgemoral.es/tags/openshift/</guid>
         <description></description>
         
         <dc:creator>Jorge Morales</dc:creator>
