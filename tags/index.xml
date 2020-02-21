@@ -21,12 +21,30 @@
 
       
       <item>
-        <title>development</title>
-        <link>http://jorgemoral.es/tags/development/</link>
+        <title>appdev</title>
+        <link>http://jorgemoral.es/tags/appdev/</link>
         <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
         
         
-        <guid>http://jorgemoral.es/tags/development/</guid>
+        <guid>http://jorgemoral.es/tags/appdev/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge Morales</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>cloudnative</title>
+        <link>http://jorgemoral.es/tags/cloudnative/</link>
+        <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
+        
+        
+        <guid>http://jorgemoral.es/tags/cloudnative/</guid>
         <description></description>
         
         <dc:creator>Jorge Morales</dc:creator>
@@ -57,48 +75,12 @@
       </item>
       
       <item>
-        <title>local</title>
-        <link>http://jorgemoral.es/tags/local/</link>
+        <title>kubernetes</title>
+        <link>http://jorgemoral.es/tags/kubernetes/</link>
         <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
         
         
-        <guid>http://jorgemoral.es/tags/local/</guid>
-        <description></description>
-        
-        <dc:creator>Jorge Morales</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>odo</title>
-        <link>http://jorgemoral.es/tags/odo/</link>
-        <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
-        
-        
-        <guid>http://jorgemoral.es/tags/odo/</guid>
-        <description></description>
-        
-        <dc:creator>Jorge Morales</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>openshift</title>
-        <link>http://jorgemoral.es/tags/openshift/</link>
-        <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
-        
-        
-        <guid>http://jorgemoral.es/tags/openshift/</guid>
+        <guid>http://jorgemoral.es/tags/kubernetes/</guid>
         <description></description>
         
         <dc:creator>Jorge Morales</dc:creator>
@@ -207,6 +189,78 @@
         
         
         <guid>http://jorgemoral.es/tags/fossasia/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge Morales</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>development</title>
+        <link>http://jorgemoral.es/tags/development/</link>
+        <pubDate>Wed, 26 Dec 2018 00:00:00 +0000</pubDate>
+        
+        
+        <guid>http://jorgemoral.es/tags/development/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge Morales</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>local</title>
+        <link>http://jorgemoral.es/tags/local/</link>
+        <pubDate>Wed, 26 Dec 2018 00:00:00 +0000</pubDate>
+        
+        
+        <guid>http://jorgemoral.es/tags/local/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge Morales</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>odo</title>
+        <link>http://jorgemoral.es/tags/odo/</link>
+        <pubDate>Wed, 26 Dec 2018 00:00:00 +0000</pubDate>
+        
+        
+        <guid>http://jorgemoral.es/tags/odo/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge Morales</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>openshift</title>
+        <link>http://jorgemoral.es/tags/openshift/</link>
+        <pubDate>Wed, 26 Dec 2018 00:00:00 +0000</pubDate>
+        
+        
+        <guid>http://jorgemoral.es/tags/openshift/</guid>
         <description></description>
         
         <dc:creator>Jorge Morales</dc:creator>
