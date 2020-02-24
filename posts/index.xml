@@ -21,6 +21,43 @@
 
       
       <item>
+        <title>Developing applications on Kubernetes - Concepts and Definitions</title>
+        <link>http://jorgemoral.es/posts/2020_02_24-develop_apps_in_k8s_and_not_die_trying-definitions/</link>
+        <pubDate>Mon, 24 Feb 2020 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Mon, 24 Feb 2020 00:00:00 +0000</atom:modified>
+        <guid>http://jorgemoral.es/posts/2020_02_24-develop_apps_in_k8s_and_not_die_trying-definitions/</guid>
+        <description>As discussed in the intro article I&amp;rsquo;m going to talk about Developing applications that will run on a Kubernetes platform. The first thing we need to do before going deeper into the topic is to go over some basic concepts so that everything I talk about later has the proper context.
+What is an application? If you ask the question of what is an application to different people you will get different answers, almost one different answer per respondant.</description>
+        
+        <dc:creator>jorgemoralespou</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>kubernetes</category>
+            
+          
+            
+              <category>appdev</category>
+            
+          
+            
+              <category>cloudnative</category>
+            
+          
+            
+              <category>devexp</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
         <title>Developing applications on Kubernetes - Intro</title>
         <link>http://jorgemoral.es/posts/2020_02_21-develop_apps_in_k8s_and_not_die_trying-intro/</link>
         <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
