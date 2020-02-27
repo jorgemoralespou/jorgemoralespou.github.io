@@ -12,7 +12,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>©{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Mon, 24 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Feb 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="http://jorgemoral.es/index.xml" rel="self" type="application/rss+xml" />
     
@@ -40,6 +40,43 @@
         
       
 
+      
+      <item>
+        <title>Developing applications on Kubernetes - Application definition</title>
+        <link>http://jorgemoral.es/posts/2020_02_27-develop_apps_in_k8s_and_not_die_trying-app_def/</link>
+        <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Thu, 27 Feb 2020 00:00:00 +0000</atom:modified>
+        <guid>http://jorgemoral.es/posts/2020_02_27-develop_apps_in_k8s_and_not_die_trying-app_def/</guid>
+        <description>Now that we have all our required concepts clear, it is time to consider how Kubernetes defines an application. Or to be more precise, the lack of a standard for “Kubernetes application”.
+Kubernetes is a project that exists for more than 5 years now and in all this time, we (application developers) have seen that there&amp;rsquo;s no support for what we call application, but there are some efforts that are worth talking about.</description>
+        
+        <dc:creator>jorgemoralespou</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>kubernetes</category>
+            
+          
+            
+              <category>appdev</category>
+            
+          
+            
+              <category>cloudnative</category>
+            
+          
+            
+              <category>devexp</category>
+            
+          
+        
+        
+        
+      </item>
       
       <item>
         <title>Developing applications on Kubernetes - Concepts and Definitions</title>
