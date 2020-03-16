@@ -12,13 +12,50 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>©{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Thu, 27 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="http://jorgemoral.es/tags/devexp/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>Developing applications on Kubernetes - Application development stages</title>
+        <link>http://jorgemoral.es/posts/2020_03_16-develop_apps_in_k8s_and_not_die_trying-app_dev_stages/</link>
+        <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Mon, 16 Mar 2020 00:00:00 +0000</atom:modified>
+        <guid>http://jorgemoral.es/posts/2020_03_16-develop_apps_in_k8s_and_not_die_trying-app_dev_stages/</guid>
+        <description>Following the topic in this series, we should talk about the following factor to consider, breaking down Kubernetes applications development workflow into different stages: source code authoring, configuration authoring, packaging and deployment.
+In kubernetes world, an application (or any component) is structurally composed of 3 different things: the container image(s), the deployment definitions and the configuration applied at every different deployment, as the same application can be deployed as different instances or in different logical environments.</description>
+        
+        <dc:creator>jorgemoralespou</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>kubernetes</category>
+            
+          
+            
+              <category>appdev</category>
+            
+          
+            
+              <category>cloudnative</category>
+            
+          
+            
+              <category>devexp</category>
+            
+          
+        
+        
+        
+      </item>
       
       <item>
         <title>Developing applications on Kubernetes - Application definition</title>

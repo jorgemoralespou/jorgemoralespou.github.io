@@ -1192,9 +1192,9 @@
 
 <meta name="description" content="Developing applications on Kubernetes without die trying" />
 <meta name="keywords" content="">
-<meta name="created" content="2020-02-27T00:00:00&#43;0000">
-<meta name="modified" content="2020-02-27T00:00:00&#43;0000">
-<meta property="article:published_time" content="2020-02-27T00:00:00&#43;0000">
+<meta name="created" content="2019-12-17T23:58:33&#43;0900">
+<meta name="modified" content="2019-12-17T23:58:33&#43;0900">
+<meta property="article:published_time" content="2019-12-17T23:58:33&#43;0900">
 
 <meta name="author" content="Jorge Morales">
 
@@ -1205,7 +1205,7 @@
 <meta property="og:type" content="website">
 <meta property="og:description" content="Developing applications on Kubernetes without die trying">
 
-<meta name="generator" content="Hugo 0.64.1" />
+<meta name="generator" content="Hugo 0.67.1" />
 <meta name="msapplication-TileColor" content="#fff">
 
 <meta name="theme-color" content="#fff">
@@ -1430,6 +1430,34 @@ if (!doNotTrack) {
 
     <div class="summary-classic__content">
       <header>
+        <h5 class="title h5"><a href='http://jorgemoral.es/posts/2020_03_16-develop_apps_in_k8s_and_not_die_trying-app_dev_stages/'> Developing applications on Kubernetes - Application development stages</a> </h5>
+        <h6 class="subtitle caption"><time title="Written At" dir="ltr">📅 Mar 16, 2020 </time>  <span title="Reading Time" dir="ltr"> &middot; ☕ 3 min read </span>&middot; <span title="WRITTEN BY" dir="ltr">✍️&nbsp;jorgemoralespou</span></h6>
+      </header>
+      <div>
+        <div class="summary-classic__text p2">
+          
+            Following the topic in this series, we should talk about the following factor to consider, breaking down Kubernetes applications development workflow into different stages: source code authoring, configuration authoring, packaging and deployment.
+In kubernetes world, an application (or any component) is structurally composed of 3 different things: the container image(s), the deployment definitions and the configuration applied at every different deployment, as the same application can be deployed as different instances or in different logical environments.
+          
+        </div>
+      </div>
+    </div>
+
+    
+    
+  </div>
+  <hr />
+</article>
+
+            
+                
+  <article class="summary-classic" data-ani="true">
+  <div class="summary-classic__flex-box" >
+
+    
+
+    <div class="summary-classic__content">
+      <header>
         <h5 class="title h5"><a href='http://jorgemoral.es/posts/2020_02_27-develop_apps_in_k8s_and_not_die_trying-app_def/'> Developing applications on Kubernetes - Application definition</a> </h5>
         <h6 class="subtitle caption"><time title="Written At" dir="ltr">📅 Feb 27, 2020 </time>  <span title="Reading Time" dir="ltr"> &middot; ☕ 6 min read </span>&middot; <span title="WRITTEN BY" dir="ltr">✍️&nbsp;jorgemoralespou</span></h6>
       </header>
@@ -1525,34 +1553,6 @@ What do I think they mean when they say Kubernetes has become boring?
           
             Have you ever developed applications on a platform like Red Hat OpenShift?
 I’m a Java developer with more than 15 years of coding experience, and while I’ve been working with OpenShift for over three years now, I never found it easy to use or compelling as a day to day development platform. Why? There are many reasons to this question, but the key ones are, complexity and speed. Before you call me a troll, allow me to explain.
-          
-        </div>
-      </div>
-    </div>
-
-    
-    
-  </div>
-  <hr />
-</article>
-
-            
-                
-  <article class="summary-classic" data-ani="true">
-  <div class="summary-classic__flex-box" >
-
-    
-
-    <div class="summary-classic__content">
-      <header>
-        <h5 class="title h5"><a href='http://jorgemoral.es/posts/2018-08-03-promoting-images-with-skopeo/'> Promoting container images between registries with skopeo</a> </h5>
-        <h6 class="subtitle caption"><time title="Written At" dir="ltr">📅 Aug 3, 2018 </time>  <span title="Reading Time" dir="ltr"> &middot; ☕ 5 min read </span>&middot; <span title="WRITTEN BY" dir="ltr">✍️&nbsp;jorgemoralespou</span></h6>
-      </header>
-      <div>
-        <div class="summary-classic__text p2">
-          
-            OpenShift admins choose different architectures for their installations, but many use two discrete clusters to physically divide development and testing workloads from production deployments.
-We recommend having some Continuous Integration (CI) process in nearly every development scenario, to orchestrate the lifecycle of applications from the initial commit all the way into production. Continuous Integration can imply many different tasks related to application development, testing, and releases. In this article, I won’t directly address whether one should do Continuous Delivery or Continuous Deployment, as that depends on the maturity and complexity of the organization and the application.
           
         </div>
       </div>
@@ -1753,6 +1753,10 @@ We recommend having some Continuous Integration (CI) process in nearly every dev
             <ul class="sidebar-recent__ul">
                 
                     <li>
+                        <a href="/posts/2020_03_16-develop_apps_in_k8s_and_not_die_trying-app_dev_stages/" class="sidebar-recent__a p2">Developing applications on Kubernetes - Application development stages</a>
+                    </li>
+                
+                    <li>
                         <a href="/posts/2020_02_27-develop_apps_in_k8s_and_not_die_trying-app_def/" class="sidebar-recent__a p2">Developing applications on Kubernetes - Application definition</a>
                     </li>
                 
@@ -1766,10 +1770,6 @@ We recommend having some Continuous Integration (CI) process in nearly every dev
                 
                     <li>
                         <a href="/posts/2018-12-26-developing-apps-in-openshift-with-odo/" class="sidebar-recent__a p2">Developing applications on OpenShift in an easier way</a>
-                    </li>
-                
-                    <li>
-                        <a href="/posts/2018-08-03-promoting-images-with-skopeo/" class="sidebar-recent__a p2">Promoting container images between registries with skopeo</a>
                     </li>
                 
             </ul>
@@ -1837,7 +1837,7 @@ We recommend having some Continuous Integration (CI) process in nearly every dev
                         appdev
                     </span>
                     <span class="taxo__num" dir="auto">
-                        3
+                        4
                     </span>
                 </a>
             </span>
@@ -1902,7 +1902,7 @@ We recommend having some Continuous Integration (CI) process in nearly every dev
                         cloudnative
                     </span>
                     <span class="taxo__num" dir="auto">
-                        3
+                        4
                     </span>
                 </a>
             </span>
@@ -1980,7 +1980,7 @@ We recommend having some Continuous Integration (CI) process in nearly every dev
                         devexp
                     </span>
                     <span class="taxo__num" dir="auto">
-                        13
+                        14
                     </span>
                 </a>
             </span>
@@ -2123,7 +2123,7 @@ We recommend having some Continuous Integration (CI) process in nearly every dev
                         kubernetes
                     </span>
                     <span class="taxo__num" dir="auto">
-                        3
+                        4
                     </span>
                 </a>
             </span>

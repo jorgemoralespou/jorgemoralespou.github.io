@@ -12,7 +12,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>©{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Thu, 27 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="http://jorgemoral.es/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -23,7 +23,7 @@
       <item>
         <title>appdev</title>
         <link>http://jorgemoral.es/tags/appdev/</link>
-        <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
+        <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
         
         
         <guid>http://jorgemoral.es/tags/appdev/</guid>
@@ -41,7 +41,7 @@
       <item>
         <title>cloudnative</title>
         <link>http://jorgemoral.es/tags/cloudnative/</link>
-        <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
+        <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
         
         
         <guid>http://jorgemoral.es/tags/cloudnative/</guid>
@@ -59,7 +59,7 @@
       <item>
         <title>devexp</title>
         <link>http://jorgemoral.es/tags/devexp/</link>
-        <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
+        <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
         
         
         <guid>http://jorgemoral.es/tags/devexp/</guid>
@@ -77,7 +77,7 @@
       <item>
         <title>kubernetes</title>
         <link>http://jorgemoral.es/tags/kubernetes/</link>
-        <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
+        <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
         
         
         <guid>http://jorgemoral.es/tags/kubernetes/</guid>

@@ -3,37 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://jorgemoral.es/</loc>
-    <lastmod>2020-02-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://jorgemoral.es/tags/appdev/</loc>
-    <lastmod>2020-02-27T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://jorgemoral.es/tags/cloudnative/</loc>
-    <lastmod>2020-02-27T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jorgemoral.es/posts/2020_02_27-develop_apps_in_k8s_and_not_die_trying-app_def/</loc>
-    <lastmod>2020-02-27T00:00:00+00:00</lastmod>
+    <loc>http://jorgemoral.es/posts/2020_03_16-develop_apps_in_k8s_and_not_die_trying-app_dev_stages/</loc>
+    <lastmod>2020-03-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://jorgemoral.es/tags/devexp/</loc>
-    <lastmod>2020-02-27T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://jorgemoral.es/tags/kubernetes/</loc>
-    <lastmod>2020-02-27T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://jorgemoral.es/tags/</loc>
+    <lastmod>2020-03-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jorgemoral.es/posts/2020_02_27-develop_apps_in_k8s_and_not_die_trying-app_def/</loc>
     <lastmod>2020-02-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -68,11 +68,6 @@
   </url>
   
   <url>
-    <loc>http://jorgemoral.es/series/</loc>
-    <lastmod>2020-01-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://jorgemoral.es/posts/</loc>
     <lastmod>2019-12-30T00:00:00+00:00</lastmod>
   </url>
@@ -85,6 +80,11 @@
   <url>
     <loc>http://jorgemoral.es/talks/</loc>
     <lastmod>2019-12-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jorgemoral.es/</loc>
+    <lastmod>2019-12-17T23:58:33+09:00</lastmod>
   </url>
   
   <url>
@@ -499,6 +499,10 @@
   
   <url>
     <loc>http://jorgemoral.es/posts/2017-04-07-developing-locally-openshift-oc-cluster/</loc>
+  </url>
+  
+  <url>
+    <loc>http://jorgemoral.es/series/</loc>
   </url>
   
 </urlset>
