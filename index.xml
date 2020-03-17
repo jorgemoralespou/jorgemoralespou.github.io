@@ -42,6 +42,43 @@
 
       
       <item>
+        <title>Developing applications on Kubernetes - Inner Loop vs Outer Loop</title>
+        <link>http://jorgemoral.es/posts/2020_03_17-develop_apps_in_k8s_and_not_die_trying-inner_loop_outer_loop/</link>
+        <pubDate>Tue, 17 Mar 2020 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Tue, 17 Mar 2020 00:00:00 +0000</atom:modified>
+        <guid>http://jorgemoral.es/posts/2020_03_17-develop_apps_in_k8s_and_not_die_trying-inner_loop_outer_loop/</guid>
+        <description>Finally we get to the last concept which is critical to understand development of applications on Kubernetes. If you&amp;rsquo;re a developer, you might have already guessed what I&amp;rsquo;m talking about, because this is where you spend most of your day.
+Inner loop is the cycle an application developer goes through before he can share his application with anyone. He will typically code, run, test, debug, code more, run again, test more, maybe debug again, and on and on.</description>
+        
+        <dc:creator>jorgemoralespou</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>kubernetes</category>
+            
+          
+            
+              <category>appdev</category>
+            
+          
+            
+              <category>cloudnative</category>
+            
+          
+            
+              <category>devexp</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
         <title>Developing applications on Kubernetes - Application development stages</title>
         <link>http://jorgemoral.es/posts/2020_03_16-develop_apps_in_k8s_and_not_die_trying-app_dev_stages/</link>
         <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>

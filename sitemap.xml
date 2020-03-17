@@ -4,31 +4,36 @@
   
   <url>
     <loc>http://jorgemoral.es/tags/appdev/</loc>
-    <lastmod>2020-03-16T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://jorgemoral.es/tags/cloudnative/</loc>
-    <lastmod>2020-03-16T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jorgemoral.es/posts/2020_03_16-develop_apps_in_k8s_and_not_die_trying-app_dev_stages/</loc>
-    <lastmod>2020-03-16T00:00:00+00:00</lastmod>
+    <loc>http://jorgemoral.es/posts/2020_03_17-develop_apps_in_k8s_and_not_die_trying-inner_loop_outer_loop/</loc>
+    <lastmod>2020-03-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://jorgemoral.es/tags/devexp/</loc>
-    <lastmod>2020-03-16T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://jorgemoral.es/tags/kubernetes/</loc>
-    <lastmod>2020-03-16T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://jorgemoral.es/tags/</loc>
+    <lastmod>2020-03-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jorgemoral.es/posts/2020_03_16-develop_apps_in_k8s_and_not_die_trying-app_dev_stages/</loc>
     <lastmod>2020-03-16T00:00:00+00:00</lastmod>
   </url>
   
